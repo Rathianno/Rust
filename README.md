@@ -10,7 +10,7 @@ Just used Rust in VSC.
 # Useful Websites
 
 * [Rust tutorial](https://www.tutorialspoint.com/rust/index.htm)
-* [Rust Wikipedia](https://en.wikipedia.org/wiki/Rust_(programming_language)
+* [Rust Wikipedia](https://en.wikipedia.org/wiki/Rust_(programming_language))
 
 # Future Work
 
